@@ -1,0 +1,8 @@
+* {
+    margin: 0;
+    
+    --bg: --var(#53B8BB);
+    --body: --var(#F3F2C9);
+    --text: --var(#055052);
+    --p: --var(#003638);
+}
